@@ -2,3 +2,4 @@
 *.exe
 rmrediskeys
 config.yml
+.idea
